@@ -1,0 +1,40 @@
+body{
+    background: white;
+}
+h1{
+    color: green;
+    text-align: center;
+    font-size: 45px;
+    border: turquoise solid;
+}
+h2{
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+    height: 50px;
+    border:red;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.imagem{ background-size: 300px 150px;
+    text-align: center;
+} 
+img{
+    width: 1100px;
+    height: 300px;
+} 
+p1{
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 155px;
+
+}
+p2{
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 150px;
+}
